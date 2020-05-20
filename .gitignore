@@ -1,0 +1,26 @@
+
+.idea/.idea.Packt Publishing .NET Core Walkthrough/.idea/
+
+.idea/.idea.Packt Publishing .NET Core Walkthrough/
+
+src/Actio.Api/bin/Debug/netcoreapp3.1/
+
+src/Actio.Api/obj/
+
+src/Actio.Common/bin/Debug/netstandard2.0/
+
+src/Actio.Common/obj/
+
+src/Actio.Services.Activities/bin/Debug/netcoreapp3.1/
+
+src/Actio.Services.Activities/obj/
+
+*.dll
+
+*.pdb
+
+*.exe
+
+src/Actio.Services.Identity/bin/Debug/netcoreapp3.1/
+
+src/Actio.Services.Identity/obj/
